@@ -48,6 +48,12 @@
   </picture>
 </a>
 
+## ⏰ Coding Habits
+
+![](./profile-metrics/habits.svg)
+
+*Rendered daily by [lowlighter/metrics](https://github.com/lowlighter/metrics) via GitHub Actions.*
+
 ## 🏙 3D Contributions
 
 ![](./profile-3d-contrib/profile-night-view.svg)
