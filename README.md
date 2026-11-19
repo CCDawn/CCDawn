@@ -56,7 +56,12 @@
 
 ## 🏙 3D Contributions
 
-![](./profile-3d-contrib/profile-night-view.svg)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-view.svg" />
+    <img src="./profile-3d-contrib/profile-green.svg" alt="3D contribution graph" width="720" />
+  </picture>
+</p>
 
 *Generated daily by [yoshi389111/github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib) via GitHub Actions.*
 
