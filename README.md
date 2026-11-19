@@ -1,6 +1,10 @@
-# Hi, I'm CalvinDawn
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=200&section=header&text=Hi%2C%20I%27m%20CalvinDawn%20%F0%9F%91%8B&fontSize=60&fontAlignY=38&fontColor=ffffff&animation=fadeIn" alt="Hi, I'm CalvinDawn" width="100%" />
+</p>
 
-Building **[Vibelution](https://github.com/CCDawn/Vibelution) — a local-first AI agent workbench**. I care about AI toolchains, developer experience, and desktop software that keeps your data local.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+Vibelution+%E2%80%94+a+local-first+AI+agent+workbench;AI+toolchains+%C2%B7+developer+experience;local-first+desktop+software+%26+HarmonyOS+bridges&font=Fira%20Code&size=18&color=2F81F7&center=true&vCenter=true&width=620&height=50&duration=4000&pause=1000&repeat=true" alt="Typing SVG" />
+</p>
 
 ## About
 
@@ -35,14 +39,20 @@ Building **[Vibelution](https://github.com/CCDawn/Vibelution) — a local-first 
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=CCDawn&layout=compact&theme=light_github&hide_border=true" alt="Top languages" />
 </picture>
 
-## 🐍 Contribution Snake
+## 📈 Growth
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CCDawn/CCDawn/output/github-contribution-grid-snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/CCDawn/CCDawn/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
-</picture>
+<a href="https://www.star-history.com/?repos=CCDawn%2FVibelution&type=Date">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=CCDawn/Vibelution&type=Date&theme=dark" />
+    <img src="https://api.star-history.com/svg?repos=CCDawn/Vibelution&type=Date" alt="Star History Chart" />
+  </picture>
+</a>
 
-*Generated daily by [Platane/snk](https://github.com/Platane/snk) via GitHub Actions.*
+## 🏙 3D Contributions
+
+![](./profile-3d-contrib/profile-night-view.svg)
+
+*Generated daily by [yoshi389111/github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib) via GitHub Actions.*
 
 ---
 
