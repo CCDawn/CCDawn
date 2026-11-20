@@ -65,6 +65,17 @@
 
 *Generated daily by [yoshi389111/github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib) via GitHub Actions.*
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CCDawn/CCDawn/output/github-contribution-grid-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/CCDawn/CCDawn/output/github-contribution-grid-snake.svg" alt="Contribution snake" width="720" />
+  </picture>
+</p>
+
+*The contribution snake, regenerated daily by [Platane/snk](https://github.com/Platane/snk) via GitHub Actions.*
+
 ---
 
 Want to get in touch? Open an issue on [Vibelution](https://github.com/CCDawn/Vibelution/issues).
