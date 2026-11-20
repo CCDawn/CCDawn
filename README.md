@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=200&section=header&text=Hi%2C%20I%27m%20CalvinDawn%20%F0%9F%91%8B&fontSize=60&fontAlignY=38&fontColor=ffffff&animation=fadeIn" alt="Hi, I'm CalvinDawn" width="100%" />
+  <img src="banner.svg" alt="CalvinDawn — local-first AI agent workbench" width="880" />
 </p>
 
 <p align="center">
